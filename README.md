@@ -32,5 +32,5 @@ This repository contains automated tests for The Ergast Developer API, which pro
 
 2. Navigate to the project directory
    ```bash
-cd Ergast-API-Automation-with-RestAssured
+   cd Ergast-API-Automation-with-RestAssured
 
