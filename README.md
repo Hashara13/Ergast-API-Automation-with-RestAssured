@@ -31,5 +31,6 @@ This repository contains automated tests for The Ergast Developer API, which pro
    git clone https://github.com/Hashara13/Ergast-API-Automation-with-RestAssured.git
 
 2. Navigate to the project directory
+   ```bash
 cd Ergast-API-Automation-with-RestAssured
 
