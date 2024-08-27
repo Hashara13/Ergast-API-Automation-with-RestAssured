@@ -1,2 +1,8 @@
-porn.xml/
+# Ignore the test-output directory
+test-output/
+
+# Ignore a specific file named porn.xml
+porn.xml
+
+# Ignore the .classpath file
 .classpath
